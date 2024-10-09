@@ -1,0 +1,27 @@
+.change a{
+    text-decoration: none;
+}
+.card {
+     border: none solid black;
+     width: 200px;
+     height: 1em;
+     padding: 10px;
+     color: rgb(237, 233, 241);
+     background-color: blueviolet;
+}
+.cardgroup{
+ gap: 10px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 10px;
+}
+
+.authors a{
+    text-decoration: none;
+}
+
+.mit a{
+    text-decoration: none;
+}
+
